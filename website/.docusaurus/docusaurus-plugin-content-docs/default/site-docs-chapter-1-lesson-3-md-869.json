@@ -1,0 +1,27 @@
+{
+  "id": "chapter-1/lesson-3",
+  "title": "Lesson 3: Control Systems and AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-1/lesson-3.md",
+  "sourceDirName": "chapter-1",
+  "slug": "/chapter-1/lesson-3",
+  "permalink": "/physical-ai-book/docs/chapter-1/lesson-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-1/lesson-3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 2: Sensing and Perception in Physical Systems",
+    "permalink": "/physical-ai-book/docs/chapter-1/lesson-2"
+  },
+  "next": {
+    "title": "Lesson 1: Machine Learning in Physical Systems",
+    "permalink": "/physical-ai-book/docs/chapter-2/lesson-1"
+  }
+}

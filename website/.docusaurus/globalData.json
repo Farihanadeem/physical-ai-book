@@ -1,0 +1,75 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chapter-1/lesson-1",
+              "path": "/physical-ai-book/docs/chapter-1/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-1/lesson-2",
+              "path": "/physical-ai-book/docs/chapter-1/lesson-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-1/lesson-3",
+              "path": "/physical-ai-book/docs/chapter-1/lesson-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/lesson-1",
+              "path": "/physical-ai-book/docs/chapter-2/lesson-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/lesson-2",
+              "path": "/physical-ai-book/docs/chapter-2/lesson-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/lesson-3",
+              "path": "/physical-ai-book/docs/chapter-2/lesson-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3/lesson-1",
+              "path": "/physical-ai-book/docs/chapter-3/lesson-1"
+            },
+            {
+              "id": "chapter-3/lesson-2",
+              "path": "/physical-ai-book/docs/chapter-3/lesson-2"
+            },
+            {
+              "id": "chapter-3/lesson-3",
+              "path": "/physical-ai-book/docs/chapter-3/lesson-3"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-book/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

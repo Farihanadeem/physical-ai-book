@@ -1,0 +1,27 @@
+{
+  "id": "chapter-2/lesson-2",
+  "title": "Lesson 2: Sensor Fusion and State Estimation",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-2/lesson-2.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/lesson-2",
+  "permalink": "/physical-ai-book/docs/chapter-2/lesson-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-2/lesson-2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 1: Machine Learning in Physical Systems",
+    "permalink": "/physical-ai-book/docs/chapter-2/lesson-1"
+  },
+  "next": {
+    "title": "Lesson 3: Safety and Ethics in Physical AI",
+    "permalink": "/physical-ai-book/docs/chapter-2/lesson-3"
+  }
+}

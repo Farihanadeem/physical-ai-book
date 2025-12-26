@@ -1,0 +1,18 @@
+{
+  "id": "chapter-3/lesson-3",
+  "title": "Lesson 3: Multi-Robot Systems and Coordination",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-3/lesson-3.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/lesson-3",
+  "permalink": "/physical-ai-book/docs/chapter-3/lesson-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-3/lesson-3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

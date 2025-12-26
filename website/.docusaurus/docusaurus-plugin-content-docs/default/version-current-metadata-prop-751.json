@@ -1,0 +1,138 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "UV Physical AI Book",
+        "href": "/physical-ai-book/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Chapter 1",
+        "items": [
+          {
+            "type": "link",
+            "label": "Lesson 1: Introduction to Physical AI",
+            "href": "/physical-ai-book/docs/chapter-1/lesson-1",
+            "docId": "chapter-1/lesson-1",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Lesson 2: Sensing and Perception in Physical Systems",
+            "href": "/physical-ai-book/docs/chapter-1/lesson-2",
+            "docId": "chapter-1/lesson-2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Lesson 3: Control Systems and AI",
+            "href": "/physical-ai-book/docs/chapter-1/lesson-3",
+            "docId": "chapter-1/lesson-3",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Chapter 2",
+        "items": [
+          {
+            "type": "link",
+            "label": "Lesson 1: Machine Learning in Physical Systems",
+            "href": "/physical-ai-book/docs/chapter-2/lesson-1",
+            "docId": "chapter-2/lesson-1",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Lesson 2: Sensor Fusion and State Estimation",
+            "href": "/physical-ai-book/docs/chapter-2/lesson-2",
+            "docId": "chapter-2/lesson-2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Lesson 3: Safety and Ethics in Physical AI",
+            "href": "/physical-ai-book/docs/chapter-2/lesson-3",
+            "docId": "chapter-2/lesson-3",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "chapter-1/lesson-1": {
+      "id": "chapter-1/lesson-1",
+      "title": "Lesson 1: Introduction to Physical AI",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-1/lesson-2": {
+      "id": "chapter-1/lesson-2",
+      "title": "Lesson 2: Sensing and Perception in Physical Systems",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-1/lesson-3": {
+      "id": "chapter-1/lesson-3",
+      "title": "Lesson 3: Control Systems and AI",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-2/lesson-1": {
+      "id": "chapter-2/lesson-1",
+      "title": "Lesson 1: Machine Learning in Physical Systems",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-2/lesson-2": {
+      "id": "chapter-2/lesson-2",
+      "title": "Lesson 2: Sensor Fusion and State Estimation",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-2/lesson-3": {
+      "id": "chapter-2/lesson-3",
+      "title": "Lesson 3: Safety and Ethics in Physical AI",
+      "description": "Learning Objectives",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-3/lesson-1": {
+      "id": "chapter-3/lesson-1",
+      "title": "Lesson 1: Robot Learning and Adaptation",
+      "description": "Learning Objectives"
+    },
+    "chapter-3/lesson-2": {
+      "id": "chapter-3/lesson-2",
+      "title": "Lesson 2: Human-Robot Interaction and Collaboration",
+      "description": "Learning Objectives"
+    },
+    "chapter-3/lesson-3": {
+      "id": "chapter-3/lesson-3",
+      "title": "Lesson 3: Multi-Robot Systems and Coordination",
+      "description": "Learning Objectives"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "UV Physical AI Book",
+      "description": "Welcome to the UV Physical AI Book - your comprehensive guide to understanding the revolutionary intersection of artificial intelligence and physical systems.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

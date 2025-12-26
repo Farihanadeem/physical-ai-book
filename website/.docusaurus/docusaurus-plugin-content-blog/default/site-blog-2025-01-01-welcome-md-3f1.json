@@ -1,0 +1,42 @@
+{
+  "permalink": "/physical-ai-book/blog/welcome",
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/blog/2025-01-01-welcome.md",
+  "source": "@site/blog/2025-01-01-welcome.md",
+  "title": "Welcome to the Physical AI Book",
+  "description": "Welcome to the Physical AI Book! This blog will feature updates, insights, and additional content related to the intersection of physical systems and artificial intelligence.",
+  "date": "2025-01-01T00:00:00.000Z",
+  "formattedDate": "January 1, 2025",
+  "tags": [
+    {
+      "label": "physical-ai",
+      "permalink": "/physical-ai-book/blog/tags/physical-ai"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/physical-ai-book/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.465,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "SÃ©bastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome to the Physical AI Book",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "physical-ai",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false
+}

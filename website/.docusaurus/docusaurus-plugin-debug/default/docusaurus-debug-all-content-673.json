@@ -1,0 +1,438 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/physical-ai-book/docs",
+          "tagsPath": "/physical-ai-book/docs/tags",
+          "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs",
+          "editUrlLocalized": "https://github.com/your-username/physical-ai-book/tree/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\physical AI book\\website\\sidebars.js",
+          "contentPath": "D:\\physical AI book\\website\\docs",
+          "contentPathLocalized": "D:\\physical AI book\\website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "chapter-1/lesson-1",
+              "title": "Lesson 1: Introduction to Physical AI",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-1/lesson-1.md",
+              "sourceDirName": "chapter-1",
+              "slug": "/chapter-1/lesson-1",
+              "permalink": "/physical-ai-book/docs/chapter-1/lesson-1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-1/lesson-1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UV Physical AI Book",
+                "permalink": "/physical-ai-book/docs/intro"
+              },
+              "next": {
+                "title": "Lesson 2: Sensing and Perception in Physical Systems",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-2"
+              }
+            },
+            {
+              "id": "chapter-1/lesson-2",
+              "title": "Lesson 2: Sensing and Perception in Physical Systems",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-1/lesson-2.md",
+              "sourceDirName": "chapter-1",
+              "slug": "/chapter-1/lesson-2",
+              "permalink": "/physical-ai-book/docs/chapter-1/lesson-2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-1/lesson-2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lesson 1: Introduction to Physical AI",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-1"
+              },
+              "next": {
+                "title": "Lesson 3: Control Systems and AI",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-3"
+              }
+            },
+            {
+              "id": "chapter-1/lesson-3",
+              "title": "Lesson 3: Control Systems and AI",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-1/lesson-3.md",
+              "sourceDirName": "chapter-1",
+              "slug": "/chapter-1/lesson-3",
+              "permalink": "/physical-ai-book/docs/chapter-1/lesson-3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-1/lesson-3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lesson 2: Sensing and Perception in Physical Systems",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-2"
+              },
+              "next": {
+                "title": "Lesson 1: Machine Learning in Physical Systems",
+                "permalink": "/physical-ai-book/docs/chapter-2/lesson-1"
+              }
+            },
+            {
+              "id": "chapter-2/lesson-1",
+              "title": "Lesson 1: Machine Learning in Physical Systems",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-2/lesson-1.md",
+              "sourceDirName": "chapter-2",
+              "slug": "/chapter-2/lesson-1",
+              "permalink": "/physical-ai-book/docs/chapter-2/lesson-1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-2/lesson-1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lesson 3: Control Systems and AI",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-3"
+              },
+              "next": {
+                "title": "Lesson 2: Sensor Fusion and State Estimation",
+                "permalink": "/physical-ai-book/docs/chapter-2/lesson-2"
+              }
+            },
+            {
+              "id": "chapter-2/lesson-2",
+              "title": "Lesson 2: Sensor Fusion and State Estimation",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-2/lesson-2.md",
+              "sourceDirName": "chapter-2",
+              "slug": "/chapter-2/lesson-2",
+              "permalink": "/physical-ai-book/docs/chapter-2/lesson-2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-2/lesson-2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lesson 1: Machine Learning in Physical Systems",
+                "permalink": "/physical-ai-book/docs/chapter-2/lesson-1"
+              },
+              "next": {
+                "title": "Lesson 3: Safety and Ethics in Physical AI",
+                "permalink": "/physical-ai-book/docs/chapter-2/lesson-3"
+              }
+            },
+            {
+              "id": "chapter-2/lesson-3",
+              "title": "Lesson 3: Safety and Ethics in Physical AI",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-2/lesson-3.md",
+              "sourceDirName": "chapter-2",
+              "slug": "/chapter-2/lesson-3",
+              "permalink": "/physical-ai-book/docs/chapter-2/lesson-3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-2/lesson-3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lesson 2: Sensor Fusion and State Estimation",
+                "permalink": "/physical-ai-book/docs/chapter-2/lesson-2"
+              }
+            },
+            {
+              "id": "chapter-3/lesson-1",
+              "title": "Lesson 1: Robot Learning and Adaptation",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-3/lesson-1.md",
+              "sourceDirName": "chapter-3",
+              "slug": "/chapter-3/lesson-1",
+              "permalink": "/physical-ai-book/docs/chapter-3/lesson-1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-3/lesson-1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "id": "chapter-3/lesson-2",
+              "title": "Lesson 2: Human-Robot Interaction and Collaboration",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-3/lesson-2.md",
+              "sourceDirName": "chapter-3",
+              "slug": "/chapter-3/lesson-2",
+              "permalink": "/physical-ai-book/docs/chapter-3/lesson-2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-3/lesson-2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            },
+            {
+              "id": "chapter-3/lesson-3",
+              "title": "Lesson 3: Multi-Robot Systems and Coordination",
+              "description": "Learning Objectives",
+              "source": "@site/docs/chapter-3/lesson-3.md",
+              "sourceDirName": "chapter-3",
+              "slug": "/chapter-3/lesson-3",
+              "permalink": "/physical-ai-book/docs/chapter-3/lesson-3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-3/lesson-3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              }
+            },
+            {
+              "id": "intro",
+              "title": "UV Physical AI Book",
+              "description": "Welcome to the UV Physical AI Book - your comprehensive guide to understanding the revolutionary intersection of artificial intelligence and physical systems.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/physical-ai-book/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Lesson 1: Introduction to Physical AI",
+                "permalink": "/physical-ai-book/docs/chapter-1/lesson-1"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Chapter 1",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-1/lesson-1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-1/lesson-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-1/lesson-3"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 2",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-2/lesson-1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-2/lesson-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-2/lesson-3"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/physical-ai-book/blog/welcome",
+            "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/blog/2025-01-01-welcome.md",
+            "source": "@site/blog/2025-01-01-welcome.md",
+            "title": "Welcome to the Physical AI Book",
+            "description": "Welcome to the Physical AI Book! This blog will feature updates, insights, and additional content related to the intersection of physical systems and artificial intelligence.",
+            "date": "2025-01-01T00:00:00.000Z",
+            "formattedDate": "January 1, 2025",
+            "tags": [
+              {
+                "label": "physical-ai",
+                "permalink": "/physical-ai-book/blog/tags/physical-ai"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/physical-ai-book/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.465,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "SÃ©bastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome to the Physical AI Book",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "physical-ai",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false
+          },
+          "content": "Welcome to the Physical AI Book! This blog will feature updates, insights, and additional content related to the intersection of physical systems and artificial intelligence.\n\n<!-- truncate -->\n\nThis project aims to provide comprehensive coverage of Physical AI concepts, from foundational principles to advanced applications. We'll explore how AI systems interact with the physical world through sensors, actuators, and control systems.\n\nStay tuned for more posts covering topics like:\n- Advanced robotics applications\n- Sensor fusion techniques\n- Control theory in AI systems\n- Safety considerations in Physical AI\n- Real-world case studies"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome"
+          ],
+          "metadata": {
+            "permalink": "/physical-ai-book/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/physical-ai-book/blog/tags/physical-ai": {
+          "label": "physical-ai",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/physical-ai-book/blog/tags/physical-ai",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/physical-ai-book/blog/tags/physical-ai",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/physical-ai-book/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/physical-ai-book/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/physical-ai-book/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/physical-ai-book/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

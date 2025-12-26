@@ -1,0 +1,23 @@
+{
+  "id": "chapter-2/lesson-3",
+  "title": "Lesson 3: Safety and Ethics in Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-2/lesson-3.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/lesson-3",
+  "permalink": "/physical-ai-book/docs/chapter-2/lesson-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/website/docs/chapter-2/lesson-3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson 2: Sensor Fusion and State Estimation",
+    "permalink": "/physical-ai-book/docs/chapter-2/lesson-2"
+  }
+}
